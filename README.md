@@ -60,7 +60,7 @@ Make a 10 minutes presentation summarizing all of your course works and what mea
 ### Day 5 - Data sharing 
 
 - The ‘data’ cycle, sharing from raw data to figures - lecture (1h, CP, MG)
-- Reproducible publishing - a case study (1.30h, NS)
+- Reproducible publishing - [a case study](https://preprint.neurolibre.org/10.55458/neurolibre.00014/) (1.30h, NS)
 - Presentations and discussions/social event (drinks and pizza 4h)
 
  
