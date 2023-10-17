@@ -13,7 +13,7 @@ The course structure is over 5 days plus personal work: 2 days, course work, 2 d
 
 - Introduction to reproducibility: [Definitions and origins](https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/1.01_Definitions%26Origins.pdf) (CP) 
 - How do you store data on your computer? [Data structures and data naming](https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/1.02_StoringData%26Code.pdf) (RO)
-- Data provenance: [keeping track of where data are coming from]/https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/1.03_DataProvenance.pdf) (MG)
+- Data provenance: [keeping track of where data are coming from](https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/1.03_DataProvenance.pdf) (MG)
 - [Reproducibility is hard](https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/1.04_ReproducibilityIsHard.pdf): [case studies](http://www.practicereproducibleresearch.org/core-chapters/4-casestudies.html) (all)
 
 ### Day 2 - Reproducible designs, protocols and pre-registration
