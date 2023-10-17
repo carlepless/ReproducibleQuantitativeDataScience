@@ -11,17 +11,17 @@ The course structure is over 5 days plus personal work: 2 days, course work, 2 d
 
 ### Day 1 - Data Collection and data storage
 
-- Introduction to reproducibility: Definitions and origins (CP) 
-- How do you store data on your computer? Data structures and data naming (RO)
-- Data provenance: keeping track of where data are coming from (MG)
-- Reproducibility is hard: [case studies](http://www.practicereproducibleresearch.org/core-chapters/4-casestudies.html) (all)
+- Introduction to reproducibility: [Definitions and origins](https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/1.01_Definitions%26Origins.pdf) (CP) 
+- How do you store data on your computer? [Data structures and data naming](https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/1.02_StoringData%26Code.pdf) (RO)
+- Data provenance: [keeping track of where data are coming from]/https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/1.03_DataProvenance.pdf) (MG)
+- [Reproducibility is hard](https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/1.04_ReproducibilityIsHard.pdf): [case studies](http://www.practicereproducibleresearch.org/core-chapters/4-casestudies.html) (all)
 
 ### Day 2 - Reproducible designs, protocols and pre-registration
 
-- Concepts and tools for protocol documentation, and study pre-registration (CP)
-- Ethic and GDPR - lecture and practical case reviews (CP & RO)
-- Using markdown ([cheat sheet](https://www.markdownguide.org/cheat-sheet/)) for documentation - practical (MG)
-- Version control and social coding with Git ([quick sheet](https://github.com/CPernet/Quicksheets/blob/main/git_github/git.mkd)) and GitHub - practical, split into novice/advanced groups (all) 
+- [Concepts and tools for protocol documentation, and study pre-registration](https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/1.05_Concepts%26Tools_doc%26preregistration.pdf) (CP)
+- [Ethic and GDPR](https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/1.06_Ethic%26GDPR.pdf) - lecture and practical case reviews (CP & RO)
+- [Using markdown](https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/1.07_Using_markdown_for_documentation.pdf) see [cheat sheet](https://www.markdownguide.org/cheat-sheet/) for documentation - practical (MG)
+- [Version control and social coding with Git](https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/1.08_VersionControl_Mkd_SocialCoding.pdf) see the [quick sheet](https://github.com/CPernet/Quicksheets/blob/main/git_github/git.mkd) and GitHub - practical, split into novice/advanced groups (all) 
 
 ### Course work
 
@@ -33,17 +33,17 @@ Submit your coursework via e-mail to Cyril and Melanie.
 
 ### Day 3 - Better coding 
 
-- Programming (CP)
-- Good coding practices (CP) 
-- An introduction to computational analysis methods: permutation, bootstrap, cross-validation, out-of-sample generalization (MG)
-- Time to update your code - update your own scripts and functions, work in teams and with teachers, review each other work (MG & CP)
+- [Programming](https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/2.01_Programming.pdf) (CP)
+- [Good coding practices](https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/2.02_Better_coding.pdf) (CP) 
+- [An introduction to computational analysis methods](https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/2.03_Computational_analysis_methods.pdf): permutation, bootstrap, cross-validation, out-of-sample generalization (MG)
+- Time to update your code - push code here, review each other work, present, discuss with teachers (MG & CP)
 
 ### Day 4 - Better analyses 
 
-- P-hacking your data - lecture (CP)
+- [P-hacking](https://github.com/CPernet/ReproducibleQuantitativeDataScience/blob/main/lecture_slides/2.04_Hacking_HARKing_and_SHARKING_your_research.pdf) your data (CP)
 - Understanding p-values (see [notebook](https://github.com/CPernet/ReproducibleQuantitativeDataScience/tree/main/p_values))
 - Feedback on coursework and discuss further issues to make your PhD reproducible (MG, CP)
-- Computational reproducibility (lecture and practical all afternoon -- MH -- lecture slides @https://files.inm7.de/mih/pres/talks/rdm_reproducibility_copenhagen2023.html#). 
+- [Computational reproducibility](https://files.inm7.de/mih/pres/talks/rdm_reproducibility_copenhagen2023.html) (lecture and practical all afternoon - MH). 
 
 Please prepare before the course:
   - [install docker on your own machine](https://docs.docker.com/engine/install/) so you can use a container and then build a container.
